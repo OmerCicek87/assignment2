@@ -1,0 +1,15 @@
+C:\Users\omerb\source\repos\xox but working\xox but working\bin\Debug\net6.0\xox but working.exe
+C:\Users\omerb\source\repos\xox but working\xox but working\bin\Debug\net6.0\xox but working.deps.json
+C:\Users\omerb\source\repos\xox but working\xox but working\bin\Debug\net6.0\xox but working.runtimeconfig.json
+C:\Users\omerb\source\repos\xox but working\xox but working\bin\Debug\net6.0\xox but working.dll
+C:\Users\omerb\source\repos\xox but working\xox but working\bin\Debug\net6.0\xox but working.pdb
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.csproj.AssemblyReference.cache
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.AssemblyInfoInputs.cache
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.AssemblyInfo.cs
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.csproj.CoreCompileInputs.cache
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.dll
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\refint\xox but working.dll
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.pdb
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\xox but working.genruntimeconfig.cache
+C:\Users\omerb\source\repos\xox but working\xox but working\obj\Debug\net6.0\ref\xox but working.dll
